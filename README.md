@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/Abhushan01/Abhushan01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhushan01&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhushan01&hide=java,html&title_color=fb4902&text_color=fff&icon_color=2bbc8a&bg_color=032213" />
 </a>
 <a href="https://github.com/Abhushan01/Abhushan01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhushan01&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhushan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhushan01&show_icons=true&line_height=27&count_private=true&title_color=fb4902&text_color=fff&icon_color=02ce8f&bg_color=032213" alt="Abhushan's GitHub Stats" />
 </a>
 
