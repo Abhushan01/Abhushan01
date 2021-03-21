@@ -10,7 +10,6 @@ Abhushan01/Abhushan01 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg'  alt='linkedin' height='20'>](https://www.linkedin.com/in/aditya-4a6756186/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/abhushan01)
 
 
 
