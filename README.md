@@ -29,9 +29,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://komarev.com/ghpvc/?username=Abhushan01&style=flat-square&color=fb4902"></p>
 <p align="center">
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhushan01&hide=java,html&title_color=fb4902&text_color=fff&icon_color=2bbc8a&bg_color=032213" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhushan01&hide=java,html&title_color=fb4902&text_color=fff&icon_color=2bbc8a&bg_color=032213&hide_border=true" />
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Abhushan01&show_icons=true&line_height=27&count_private=true&title_color=fb4902&text_color=fff&icon_color=02ce8f&bg_color=032213" alt="Abhushan's GitHub Stats" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Abhushan01&show_icons=true&line_height=27&count_private=true&title_color=fb4902&text_color=fff&icon_color=02ce8f&bg_color=032213&hide_border=true" alt="Abhushan's GitHub Stats" />
 
 <img width="370px" alt="Abhushan's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhushan01&background=032213&hide_border=true&stroke=fff&ring=02ce8f&fire=fb4902&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" />
 
