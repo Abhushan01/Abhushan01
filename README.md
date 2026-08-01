@@ -31,7 +31,7 @@
 
 ## 🪞 About Me
 
-<img align="left" width="230" src="https://raw.githubusercontent.com/Abhushan01/Abhushan01/refs/heads/main/ascii-portrait.gif"/>
+<img align="right" width="230" src="https://raw.githubusercontent.com/Abhushan01/Abhushan01/refs/heads/main/ascii-portrait.gif"/>
 
 
 I'm a **Frontend Developer with 4 years at Tata Consultancy Services**, specializing in **Angular**, **React**, and **TypeScript**, with a strong focus on **Micro-Frontend Architecture** and **Module Federation** for large-scale enterprise platforms.
