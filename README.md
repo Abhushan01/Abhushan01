@@ -147,7 +147,9 @@ Built UI components for an enterprise Governance Portal through an Angular 8 →
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhushan01&theme=tokyonight&hide_border=true&background=0F0C29&stroke=A78BFA&ring=6A0DAD&fire=A78BFA&currStreakLabel=E6E6FA" width="49%"/>
+![](https://github-readme-stats.shion.dev/api?username=abhushan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abhushan01&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhushan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
