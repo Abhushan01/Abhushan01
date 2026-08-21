@@ -62,6 +62,10 @@ Open To:
 
 <img src="https://skillicons.dev/icons?i=angular,react,redux,tailwind,bootstrap,materialui,sass&theme=dark"/>
 
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
+
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,eslint&theme=dark"/>
