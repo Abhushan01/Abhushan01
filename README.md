@@ -33,7 +33,6 @@
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/Abhushan01/Abhushan01/refs/heads/main/ascii-portrait.gif"/>
 
-
 I'm a **Frontend Developer with 4 years at Tata Consultancy Services**, specializing in **Angular**, **React**, and **TypeScript**, with a strong focus on **Micro-Frontend Architecture** and **Module Federation** for large-scale enterprise platforms.
 
 - 🏗️ I design and ship **enterprise telecom analytics platforms**, taking ownership from architecture through delivery
@@ -162,18 +161,6 @@ Built UI components for an enterprise Governance Portal through an Angular 8 →
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhushan01&theme=react-dark&hide_border=true&bg_color=0F0C29&color=A78BFA&line=6A0DAD&point=E6E6FA"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abhushan01/Abhushan01/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
